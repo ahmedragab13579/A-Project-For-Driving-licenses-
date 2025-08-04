@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F338024-392A-4CD2-AD0F-C0E0D36DD1F8}|TheSereens\\TheSereens.csproj|d:\\the real project is  the derivers and vehicles license  department  project\\thesereens\\appointments\\addanappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F338024-392A-4CD2-AD0F-C0E0D36DD1F8}|TheSereens\\TheSereens.csproj|solutionrelative:thesereens\\appointments\\addanappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F338024-392A-4CD2-AD0F-C0E0D36DD1F8}|TheSereens\\TheSereens.csproj|d:\\the real project is  the derivers and vehicles license  department  project\\thesereens\\appointments\\addanappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F338024-392A-4CD2-AD0F-C0E0D36DD1F8}|TheSereens\\TheSereens.csproj|solutionrelative:thesereens\\appointments\\addanappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 383,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddAnAppointment.cs",
+              "DocumentMoniker": "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\TheSereens\\Appointments\\AddAnAppointment.cs",
+              "RelativeDocumentMoniker": "TheSereens\\Appointments\\AddAnAppointment.cs",
+              "ToolTip": "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\TheSereens\\Appointments\\AddAnAppointment.cs",
+              "RelativeToolTip": "TheSereens\\Appointments\\AddAnAppointment.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:00:27.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddAnAppointment.cs [Design]",
+              "DocumentMoniker": "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\TheSereens\\Appointments\\AddAnAppointment.cs",
+              "RelativeDocumentMoniker": "TheSereens\\Appointments\\AddAnAppointment.cs",
+              "ToolTip": "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\TheSereens\\Appointments\\AddAnAppointment.cs [Design]",
+              "RelativeToolTip": "TheSereens\\Appointments\\AddAnAppointment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:00:25.686Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

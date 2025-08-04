@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F338024-392A-4CD2-AD0F-C0E0D36DD1F8}|TheSereens\\TheSereens.csproj|d:\\the real project is  the derivers and vehicles license  department  project\\thesereens\\license information\\internationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F338024-392A-4CD2-AD0F-C0E0D36DD1F8}|TheSereens\\TheSereens.csproj|solutionrelative:thesereens\\license information\\internationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F338024-392A-4CD2-AD0F-C0E0D36DD1F8}|TheSereens\\TheSereens.csproj|d:\\the real project is  the derivers and vehicles license  department  project\\thesereens\\license information\\internationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F338024-392A-4CD2-AD0F-C0E0D36DD1F8}|TheSereens\\TheSereens.csproj|solutionrelative:thesereens\\license information\\internationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 383,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InternationalLicense.cs",
+              "DocumentMoniker": "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\TheSereens\\License Information\\InternationalLicense.cs",
+              "RelativeDocumentMoniker": "TheSereens\\License Information\\InternationalLicense.cs",
+              "ToolTip": "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\TheSereens\\License Information\\InternationalLicense.cs",
+              "RelativeToolTip": "TheSereens\\License Information\\InternationalLicense.cs",
+              "ViewState": "AgIAABMAAADA/////78twFsAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:35:42.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InternationalLicense.cs [Design]",
+              "DocumentMoniker": "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\TheSereens\\License Information\\InternationalLicense.cs",
+              "RelativeDocumentMoniker": "TheSereens\\License Information\\InternationalLicense.cs",
+              "ToolTip": "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\TheSereens\\License Information\\InternationalLicense.cs [Design]",
+              "RelativeToolTip": "TheSereens\\License Information\\InternationalLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:35:40.533Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

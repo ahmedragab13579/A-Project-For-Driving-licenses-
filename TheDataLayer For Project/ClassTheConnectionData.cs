@@ -8,7 +8,7 @@ namespace TheDataLayer_For_Project
 {
     internal class ClassTheConnectionData
     {
-        public static string StringConnection = "Server=.;Database=DVLD;User Id=sa;Password=123456789ah";
+        public static string StringConnection = "Your Connection";
 
     }
 }

@@ -4,12 +4,12 @@
     "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\ThePresentationLayer\\ThePusnissLayer.csproj": {}
   },
   "projects": {
-    "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\TheDataLayer For Project\\TheDataLayer For Project.csproj": {
+    "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\TheDataLayer For Project\\DVDL Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\TheDataLayer For Project\\TheDataLayer For Project.csproj",
-        "projectName": "TheDataLayer For Project",
-        "projectPath": "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\TheDataLayer For Project\\TheDataLayer For Project.csproj",
+        "projectUniqueName": "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\TheDataLayer For Project\\DVDL Data.csproj",
+        "projectName": "DVDL Data",
+        "projectPath": "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\TheDataLayer For Project\\DVDL Data.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
         "outputPath": "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\TheDataLayer For Project\\obj\\",
         "projectStyle": "PackageReference",
@@ -93,8 +93,8 @@
           "net48": {
             "targetAlias": "net4.8",
             "projectReferences": {
-              "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\TheDataLayer For Project\\TheDataLayer For Project.csproj": {
-                "projectPath": "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\TheDataLayer For Project\\TheDataLayer For Project.csproj"
+              "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\TheDataLayer For Project\\DVDL Data.csproj": {
+                "projectPath": "D:\\The Real Project is  The Derivers and Vehicles license  Department  Project\\TheDataLayer For Project\\DVDL Data.csproj"
               }
             }
           }

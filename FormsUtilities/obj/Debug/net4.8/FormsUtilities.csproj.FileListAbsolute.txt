@@ -1,0 +1,6 @@
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\obj\Debug\net4.8\FormsUtilities.csproj.AssemblyReference.cache
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\obj\Debug\net4.8\FormsUtilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\obj\Debug\net4.8\FormsUtilities.AssemblyInfoInputs.cache
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\obj\Debug\net4.8\FormsUtilities.AssemblyInfo.cs
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\obj\Debug\net4.8\FormsUtilities.csproj.CoreCompileInputs.cache
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\obj\Debug\net4.8\FormsUtilities.sourcelink.json

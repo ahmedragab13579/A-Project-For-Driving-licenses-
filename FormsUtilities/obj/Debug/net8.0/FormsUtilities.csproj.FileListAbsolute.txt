@@ -1,0 +1,28 @@
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\bin\Debug\net8.0\FormsUtilities.deps.json
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\bin\Debug\net8.0\FormsUtilities.dll
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\bin\Debug\net8.0\FormsUtilities.pdb
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\bin\Debug\net8.0\DVDL Business.dll
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\bin\Debug\net8.0\DVDL Data.dll
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\bin\Debug\net8.0\DVDL_InfrastructureLayer.dll
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\bin\Debug\net8.0\System.Windows.Forms.dll
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\bin\Debug\net8.0\Accessibility.dll
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\bin\Debug\net8.0\System.Deployment.dll
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\bin\Debug\net8.0\System.Runtime.Serialization.Formatters.Soap.dll
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\bin\Debug\net8.0\DVDL_InfrastructureLayer.pdb
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\bin\Debug\net8.0\DVDL Business.pdb
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\bin\Debug\net8.0\DVDL Data.pdb
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\bin\Debug\net8.0\System.Windows.Forms.xml
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\bin\Debug\net8.0\Accessibility.xml
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\bin\Debug\net8.0\System.Deployment.xml
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\bin\Debug\net8.0\System.Runtime.Serialization.Formatters.Soap.xml
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\obj\Debug\net8.0\FormsUtilities.csproj.AssemblyReference.cache
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\obj\Debug\net8.0\FormsUtilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\obj\Debug\net8.0\FormsUtilities.AssemblyInfoInputs.cache
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\obj\Debug\net8.0\FormsUtilities.AssemblyInfo.cs
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\obj\Debug\net8.0\FormsUtilities.csproj.CoreCompileInputs.cache
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\obj\Debug\net8.0\FormsUtilities.sourcelink.json
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\obj\Debug\net8.0\FormsUti.A6B8A3F2.Up2Date
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\obj\Debug\net8.0\FormsUtilities.dll
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\obj\Debug\net8.0\refint\FormsUtilities.dll
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\obj\Debug\net8.0\FormsUtilities.pdb
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\FormsUtilities\obj\Debug\net8.0\ref\FormsUtilities.dll

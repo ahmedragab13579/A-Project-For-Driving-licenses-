@@ -1,0 +1,13 @@
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\TheDataLayer For Project\bin\Debug\net8.0\1V5678.deps.json
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\TheDataLayer For Project\bin\Debug\net8.0\1V5678.dll
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\TheDataLayer For Project\bin\Debug\net8.0\1V5678.pdb
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\TheDataLayer For Project\obj\Debug\net8.0\1V5678.csproj.AssemblyReference.cache
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\TheDataLayer For Project\obj\Debug\net8.0\1V5678.GeneratedMSBuildEditorConfig.editorconfig
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\TheDataLayer For Project\obj\Debug\net8.0\1V5678.AssemblyInfoInputs.cache
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\TheDataLayer For Project\obj\Debug\net8.0\1V5678.AssemblyInfo.cs
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\TheDataLayer For Project\obj\Debug\net8.0\1V5678.csproj.CoreCompileInputs.cache
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\TheDataLayer For Project\obj\Debug\net8.0\1V5678.sourcelink.json
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\TheDataLayer For Project\obj\Debug\net8.0\1V5678.dll
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\TheDataLayer For Project\obj\Debug\net8.0\refint\1V5678.dll
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\TheDataLayer For Project\obj\Debug\net8.0\1V5678.pdb
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\TheDataLayer For Project\obj\Debug\net8.0\ref\1V5678.dll

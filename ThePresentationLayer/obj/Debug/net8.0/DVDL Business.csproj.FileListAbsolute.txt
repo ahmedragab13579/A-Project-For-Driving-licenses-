@@ -1,0 +1,16 @@
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\ThePresentationLayer\bin\Debug\net8.0\DVDL Business.deps.json
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\ThePresentationLayer\bin\Debug\net8.0\DVDL Business.dll
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\ThePresentationLayer\bin\Debug\net8.0\DVDL Business.pdb
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\ThePresentationLayer\bin\Debug\net8.0\DVDL Data.dll
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\ThePresentationLayer\bin\Debug\net8.0\DVDL Data.pdb
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\ThePresentationLayer\obj\Debug\net8.0\DVDL Business.csproj.AssemblyReference.cache
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\ThePresentationLayer\obj\Debug\net8.0\DVDL Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\ThePresentationLayer\obj\Debug\net8.0\DVDL Business.AssemblyInfoInputs.cache
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\ThePresentationLayer\obj\Debug\net8.0\DVDL Business.AssemblyInfo.cs
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\ThePresentationLayer\obj\Debug\net8.0\DVDL Business.csproj.CoreCompileInputs.cache
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\ThePresentationLayer\obj\Debug\net8.0\DVDL Business.sourcelink.json
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\ThePresentationLayer\obj\Debug\net8.0\DVDL Bus.0C4BFE32.Up2Date
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\ThePresentationLayer\obj\Debug\net8.0\DVDL Business.dll
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\ThePresentationLayer\obj\Debug\net8.0\refint\DVDL Business.dll
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\ThePresentationLayer\obj\Debug\net8.0\DVDL Business.pdb
+D:\The Real Project is  The Derivers and Vehicles license  Department  Project\ThePresentationLayer\obj\Debug\net8.0\ref\DVDL Business.dll

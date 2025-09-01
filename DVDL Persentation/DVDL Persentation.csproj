@@ -1,0 +1,173 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>DVDL_Persentation</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="appsettings.json" />
+    <None Remove="ِappsettings.Designer.json" />
+    <None Remove="ِappsettings.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.8" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="9.0.8" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="9.0.8" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="9.0.8" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.8" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="9.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DVDL_InfrastructureLayer\DVDL_InfrastructureLayer.csproj" />
+    <ProjectReference Include="..\FormsUtilities\FormsUtilities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Application\UpdateApplication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Appointments\AddAnAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Appointments\AppointmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="License Information\ChangeLicense\ChangeLicenseForLostOrDamage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="License Information\ChangeLicense\RenewDrivingLicenseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="License Information\DetainLicense\DetainLicenseFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="License Information\DetainLicense\RelaseDetainLicenseFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="License Information\InternationalLicense\InternationalLicense.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="License Information\InternationalLicense\IssueInternationalLicense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="License Information\LocalDriving\AddLocalDrivingLicenseApplicationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="License Information\LocalDriving\IssueLocalDrivingLicenseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="License Information\LocalDriving\LocalDrivingLicenseApplicationInfomations.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="License Information\LocalDriving\LocalDrivingLicenseInformations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="License Information\LocalDriving\LocalLicenseApplicationInfomationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manage Screens\ManageApplicationTypesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manage Screens\ManageDetainLicesneForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manage Screens\ManageDrivers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manage Screens\ManageInternationalLicense.cs" />
+    <Compile Update="Manage Screens\ManageLocalDrivingLicenseApplicationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manage Screens\ManagePeopleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manage Screens\ManageTestsType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manage Screens\ManageUsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Person Information\AddOrUpdataPerson.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Person Information\PersonCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Person Information\PersonCardWithFilter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Person Information\PersonLicenseHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Person Information\ThePersonInformationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\Resource.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resource.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Update="Tests\TestForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tests\UpdateTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TheLoginScreenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TheMainMenuForm.cs" />
+    <Compile Update="Users Information\AddOrUpdateUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users Information\ChangePasswordControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Users Information\ChangePasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users Information\UserCardControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Users Information\UserInformationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resource.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ImageFolder\" />
+  </ItemGroup>
+
+</Project>

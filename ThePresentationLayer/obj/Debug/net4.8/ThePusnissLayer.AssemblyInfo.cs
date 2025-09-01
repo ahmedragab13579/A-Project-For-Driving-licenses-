@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThePusnissLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07801d73d14c695877679ebd094d8a731d9c74a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThePusnissLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThePusnissLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

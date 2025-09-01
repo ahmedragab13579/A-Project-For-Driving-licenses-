@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DVDL Persentation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07801d73d14c695877679ebd094d8a731d9c74a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7a752f5ad4c19225bc3a58e9aab3d7e3c680dad")]
 [assembly: System.Reflection.AssemblyProductAttribute("DVDL Persentation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DVDL Persentation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
